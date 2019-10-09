@@ -1,0 +1,33 @@
+html {
+   position: relative;
+   min-height: 100%;
+}
+body {
+   margin-bottom: 30px;
+   background-color: #5F9EA0;
+}
+#main-img {
+   width: 563px;
+   border: solid;
+   border-width: 12px 12px 12px 12px;
+   border-color: #F0F8FF;
+   position: relative;
+}
+.white {
+   color: #FFFFFF;
+}
+#outer-border {
+   padding: 20px 20px 0px 20px;
+} 
+.rtpanel-list {
+   margin: 0px 0px 0px 0px;
+   padding: 0px 15px 0px 20px;
+}
+.footer {
+   position: absolute;
+   color: #FFFFFF;
+   bottom: 0;
+   width: 100%;
+   height: 40px;
+   text-align: right;
+}
